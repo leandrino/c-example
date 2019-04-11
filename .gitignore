@@ -1,0 +1,8 @@
+.idea
+.vscode
+.env
+.env.production
+.env.development
+.env.testing
+.DS_Store
+
